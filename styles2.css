@@ -1,0 +1,32 @@
+#header, 
+#footer {
+  background-color: grey;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#header {
+  position: sticky;
+}
+
+img {
+  width: 33.33vw;
+}
+
+#main-content {
+  display: flex;
+}
+
+#first-column,
+#third-column {
+  background-color: lightblue;
+}
+
+#second-column {
+  background-color: cadetblue;
+}
+
+#third-column {
+  padding-top: 15em;
+}
