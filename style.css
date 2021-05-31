@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#header-div {
+  background-color: black;
+  color: white;
+  width: 50%;
+  left: 200px;
+  text-align: center;
+  position: fixed;
+}
+
+container-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+img {
+  width: 50%;
+}
+
+#outside-car-img {
+  width: 500px;
+  height: 2000px;
+}
